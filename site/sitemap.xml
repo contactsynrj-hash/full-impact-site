@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://full-impact.example/</loc></url>
-  <url><loc>https://full-impact.example/probleme.html</loc></url>
-  <url><loc>https://full-impact.example/solution.html</loc></url>
-  <url><loc>https://full-impact.example/testeurs.html</loc></url>
-  <url><loc>https://full-impact.example/demonstration.html</loc></url>
-  <url><loc>https://full-impact.example/confidentialite.html</loc></url>
-  <url><loc>https://full-impact.example/mentions-legales.html</loc></url>
+  <url><loc>https://fullimpact.fr/</loc></url>
+  <url><loc>https://fullimpact.fr/probleme.html</loc></url>
+  <url><loc>https://fullimpact.fr/solution.html</loc></url>
+  <url><loc>https://fullimpact.fr/testeurs.html</loc></url>
+  <url><loc>https://fullimpact.fr/demonstration.html</loc></url>
+  <url><loc>https://fullimpact.fr/confidentialite.html</loc></url>
+  <url><loc>https://fullimpact.fr/mentions-legales.html</loc></url>
 </urlset>
