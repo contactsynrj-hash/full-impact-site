@@ -75,7 +75,21 @@
   </div>
   <div class="field"><label class="field-label" for="email-liste_attente">Email *</label><input class="input" id="email-liste_attente" name="email" type="email" autocomplete="email" required maxlength="160"></div>
   <div class="field-grid">
-    <div class="field"><label class="field-label" for="sport-liste_attente">Sport pratiqué *</label><input class="input" id="sport-liste_attente" name="sport" type="text" required maxlength="100" placeholder="Ex. boxe, MMA, muay-thaï…"></div>
+    <div class="field">
+  <label class="field-label" for="sport-liste_attente">Sport pratiqué *</label>
+  <select class="select" id="sport-liste_attente" name="sport" required>
+    <option value="">Choisir…</option>
+    <option>Boxe</option>
+    <option>Boxe Française/Savate</option>
+    <option>Karaté</option>
+    <option>Kick Boxing</option>
+    <option>Kung-Fu</option>
+    <option>MMA</option>
+    <option>Muay-Thaï</option>
+    <option>Taekwondo</option>
+    <option>Autres</option>
+  </select>
+</div>
     <div class="field"><label class="field-label" for="club-liste_attente">Club ou structure</label><input class="input" id="club-liste_attente" name="club" type="text" maxlength="150"></div>
   </div>
   <div class="field"><label class="field-label" for="niveau-liste_attente">Niveau *</label><select class="select" id="niveau-liste_attente" name="niveau" required><option value="">Choisir…</option><option>Débutant</option><option>Intermédiaire</option><option>Confirmé</option><option>Compétiteur</option><option>Coach</option></select></div>
